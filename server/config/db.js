@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 mongoose.connect(
-  "mongodb+srv://omar:24551966@smart-virtual-classroom.i0bdn.mongodb.net/closer?retryWrites=true&w=majority",
+  "mongodb+srv://....",
   {
     useNewUrlParser: true,
     useFindAndModify: false,
